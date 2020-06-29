@@ -2,6 +2,7 @@
 
 ## *Project Overview*
 
+A chief data scientist for a city school has given me the following tasks to complete the school district analysis.
 * A high-level snapshot of the district's key metrics, presented in a table format
 * An overview of the key metrics for each school, presented in a table format
 * Tables presenting each of the following metrics:
@@ -14,7 +15,7 @@
 
 ## *Challenge Overview*
 
-A chief data scientist for a city school has given me the following tasks to complete After replacing the reading and math scores for the Thomas High School with NaN
+A chief data scientist for a city school has given me the following tasks to complete after replacing the reading and math scores for the Thomas High School with NaN
   1. Create a duplicate of PyCitySchools.ipynb and rename it PyCitySchools_Challenge.ipynb.
   2. Correct the students' names so there are no professional prefixes or suffixes.
   3. Replace the reading and math scores for ninth graders at Thomas High School with NaN.
@@ -31,7 +32,6 @@ A chief data scientist for a city school has given me the following tasks to com
         * Scores by School Spending
         * Scores by School Size
         * Scores by School Type
-
 
 ## *Resources*
 
