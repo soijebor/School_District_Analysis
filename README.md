@@ -50,4 +50,4 @@ A cheif data scientist for a city school has given me the following tasks to com
      * Math and Reading Scores by Grade - it only affected the 9th grade for Thomas high school by replacing the grade with NaN for both math and  reading.
      * Scores by School Spending - the spending range $630 -644 per student scores percentage for passing math, reading snd overall percentage dropped by 6%, 7% and 7% respecrtively due to the replacement of the ninth grade sccores for Thomas high school.
      * Scores by School Size - the medium(1000-2000)school size percentage for passing math, reading snd overall percentage all dropped by 6% each  due to the replacement of the ninth grade sccores for Thomas high school.
-     * Scores by School Type - the Charter school type percentage for passing math, reading snd overall percentage dropped 4%,4% and 3% respectively due to the replacement of the ninth grade sccores for Thomas high school.
+     * Scores by School Type - the Charter school type percentage for passing math, reading snd overall percentage dropped 4%, 4% and 3% respectively due to the replacement of the ninth grade sccores for Thomas high school.
