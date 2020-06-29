@@ -44,7 +44,9 @@ A chief data scientist for a city school has given me the following tasks to com
   ## *Summary*
   
   The analysis of the school district shows that:
-  * After recreating the district and school summary DataFrames that in both summary the average math score went down from 79.0 to 78.9 and the percentage of passing math, reading and the overall percentage all went down by 1% each.
+  * After recreating the district and school summary DataFrames:
+     * In the district summary the average math score went down from 79.0 to 78.9 and the percentage of passing math, reading and the overall percentage all went down by 1% each.
+     * In the School summary all scores the average math, average reading score, passing math percentage, passing reading percentage and overall passing percentage dropped for Thomas high school from 83.418349,	83.848930,	93.272171%,	97.308869% and	90.948012% to 83.350937,	83.896082,	66.911315%,	69.663609% and	65.076453% respectively.
   * Replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools by dropping from 2nd place in top performing school to 8th place.
   * After recalculating the scores by grade, scores by school spending, scores by school size, and scores by school type, replacing the ninth-grade scores affects the following by:
      * Math and Reading Scores by Grade - it only affected the 9th grade for Thomas high school by replacing the grade with NaN for both math and  reading.
